@@ -7,7 +7,7 @@ const List = styled.ul`
   line-height: 1.36;
   letter-spacing: 0.2em;
 
-  color: #ff0000;
+  color: #fff;
   background-color: transparent;
   border: none;
 `;

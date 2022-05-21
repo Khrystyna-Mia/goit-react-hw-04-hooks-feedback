@@ -10,11 +10,11 @@ const Button = styled.button`
 
   font-family: 'Georgia', sans-serif;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.12;
   letter-spacing: 0.2em;
 
-  color: #000;
+  color: #fff;
 
   background-color: transparent;
   border: 2px solid #ff0000;

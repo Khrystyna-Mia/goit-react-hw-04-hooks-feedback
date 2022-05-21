@@ -7,7 +7,7 @@ const Title = styled.p`
   line-height: 1.8;
   letter-spacing: 0.2em;
 
-  color: #000;
+  color: #fff;
   text-decoration: underline 2px #ff0000;
 `;
 

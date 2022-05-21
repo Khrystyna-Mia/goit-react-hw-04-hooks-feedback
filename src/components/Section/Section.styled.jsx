@@ -17,7 +17,7 @@ const Title = styled.h2`
 
   margin-bottom: 15px;
 
-  color: #000;
+  color: #fff;
 `;
 
 export { SectionWrapper, Title };
